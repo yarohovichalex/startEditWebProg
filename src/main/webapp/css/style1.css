@@ -1,0 +1,14 @@
+.editBook{	
+	color: red;
+	display: none;
+	background-color: red;
+	width: 350px;
+	height: 100px;
+	border: 3px solid #008000;
+}
+.bookStyle{
+	background-color: red;
+	width: 550px;
+	height: 200px;
+	border: 3px solid #008000;
+}
